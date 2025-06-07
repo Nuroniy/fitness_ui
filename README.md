@@ -1,16 +1,26 @@
-# untitled10
+# 🏋️‍♀️ Flutter UI – Progress & Fitness Tracker
 
-A new Flutter project.
+A beautiful **Flutter UI template** designed for fitness tracking and activity progress. This project is **purely focused on UI** using Flutter — no backend (e.g., Supabase), no state management (`flutter_bloc`, `provider`, etc.), and no persistent storage.
 
-## Getting Started
+It is ideal for use as a prototype or starting point for building a fitness, workout, or progress tracking mobile app.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📊 **Progress Dashboard**
+    - Weekly progress summary with animated bars
+    - Stats cards for workouts, calories, and workout time
+    - Scrollable activity history list
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🧱 **Reusable Components**
+    - `DayProgressWidget` – visualizes progress per day
+    - `StatCardWidget` – displays metric cards
+    - `ActivityCardWidget` – shows recent activity history
+
+- 🎨 **Consistent Styling**
+    - Shared `AppColors` for theme colors
+    - Shared `AppDecorations` for `BoxDecoration` styles
+    - Shared `AppStyles` for shadows
+
+---
