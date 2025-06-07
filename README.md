@@ -24,3 +24,24 @@ It is ideal for use as a prototype or starting point for building a fitness, wor
     - Shared `AppStyles` for shadows
 
 ---
+
+
+## 📸 UI Screenshots
+
+> You can add real screenshots of your app UI here.
+
+---
+
+## 🚀 Get Started
+
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
+4. Customize and Enjoy!
+
+---
+
+## 📦 Dependencies
+
+- [`flutter`](https://flutter.dev/)
+- [`gap`](https://pub.dev/packages/gap) – for consistent spacing
