@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - avoid_redundant_argument_values
+    - prefer_const_declarations
+    - avoid_relative_lib_imports
