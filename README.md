@@ -43,5 +43,5 @@ It is ideal for use as a prototype or starting point for building a fitness, wor
 
 ## 📦 Dependencies
 
-- [`flutter`](https://flutter.dev/)
+- [`flutter`](https://flutter.dev/) - Flutter SDK
 - [`gap`](https://pub.dev/packages/gap) – for consistent spacing
